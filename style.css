@@ -1,0 +1,50 @@
+body{
+    background: url(img/Screenshot\ 2023-05-21\ at\ 19.04.52.png);
+}
+.navbar-brand{
+    width: 157px;
+height: 48px;
+
+font-family: 'inter',sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 48px;
+letter-spacing: 0.1em;
+color: #FFFFFF;
+line-height: 57px; 
+float: left;
+
+}
+.navbar-nav a{
+    font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+top: 5.27%;
+bottom: 91.89%;
+
+}
+
+h1{
+    font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 80px;
+line-height: 29px;
+color: #FFFFFF;
+top: 5.27%;
+bottom: 91.89%;
+}
+p{
+    font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 200;
+font-size: 30px;
+line-height: 29px;
+color: #FFFFFF;
+top: 5.27%;
+bottom: 91.89%;
+}
